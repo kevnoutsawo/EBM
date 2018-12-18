@@ -21,8 +21,8 @@
 							<span class="fa fa-list"></span><span class="mtext">Catalogue</span>
 						</a>
 						<ul class="submenu">
-							<li><a href="#">Catégories</a></li>
-							<li><a href="#">Produits</a></li>
+							<li><a href="categories.php">Catégories</a></li>
+							<li><a href="produits.php">Produits</a></li>
 							<li><a href="#">Flitres</a></li>
 							<li><a href="#">Produits</a></li>
 							<li class="dropdown">
