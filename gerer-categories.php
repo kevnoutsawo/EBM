@@ -17,7 +17,7 @@
 							</div>
 							<nav aria-label="breadcrumb" role="navigation">
 								<ol class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.php">Accueil</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Catalogue</a></li>
 									<li class="breadcrumb-item active" aria-current="page">Catégories</li>
 								</ol>
 							</nav>
@@ -38,14 +38,14 @@
 				<div class="pd-20 bg-white border-radius-4 box-shadow mb-30">
 					<form method="post" action="create-user.php">
 						<div class="clearfix">
-						<div class="pull-left">
-							<h4 class="text-blue">Créer une catégorie</h4>
-							<p class="mb-30 font-14">.</p>
+							<div class="pull-left">
+								<h4 class="text-blue">Créer une catégorie</h4>
+								<p class="mb-30 font-14">.</p>
+							</div>
+							<div class="pull-right">
+								<button type="submit" class="btn btn-success"><i class="fa fa-plus"></i> Créer</button>
+							</div>
 						</div>
-						<div class="pull-right">
-							<button type="submit" class="btn btn-success"><i class="fa fa-plus"></i> Créer</button>
-						</div>
-					</div>
 						<div class="form-group row">
 							<label class="col-sm-12 col-md-2 col-form-label">Nom </label>
 							<div class="col-sm-12 col-md-10">
@@ -62,15 +62,6 @@
 							<label class="col-sm-12 col-md-2 col-form-label">Parent </label>
 							<div class="col-sm-12 col-md-10">
 								<input class="form-control" type="text">
-							</div>
-						</div>
-						<div class="form-group row">
-							<label class="col-sm-12 col-md-2 col-form-label">Boutique</label>
-							<div class="col-sm-12 col-md-10">
-								<input class="form-control" type="checkbox">
-								<label>EasyBuy</label>
-								<input class="form-control" type="checkbox">
-								<label>Autre</label>
 							</div>
 						</div>
 						<div class="form-group row">

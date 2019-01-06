@@ -23,7 +23,7 @@
 						<ul class="submenu">
 							<li><a href="categories.php">Catégories</a></li>
 							<li><a href="produits.php">Produits</a></li>
-							<li><a href="#">Flitres</a></li>
+							<!-- <li><a href="#">Flitres</a></li> 
 							<li class="dropdown">
 								<a href="javascript:;" class="dropdown-toggle">
 									<span class="fa fa-file"></span><span class="mtext">Attributs</span>
@@ -33,10 +33,10 @@
 									<li><a href="javascript:;">Groupes d'attributs</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Options</a></li>
+							-->
+							<li><a href="options.php">Options</a></li>
 							<li><a href="#">Marques / Fabricants</a></li>
 							<li><a href="#">Téléchargements</a></li>
-							<li><a href="#">Options</a></li>
 							<li><a href="#">Avis produits</a></li>
 							<li><a href="#">Informations</a></li>
 						</ul>
