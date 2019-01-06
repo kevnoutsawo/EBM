@@ -129,7 +129,7 @@
 									<td><img src="vendors/images/product-img4.jpg"></td>
 									<td>SmartWatch</td>
 									<td>Apple</td>
-									<td class="text-success">250 000 FCFA</td>
+									<td class="text-success">250 000 FCFA<br><s class="text-danger">320 000 FCFA</s></td>
 									<td class="text-danger">9</td>
 									<td>Actif</td>
 									<td>

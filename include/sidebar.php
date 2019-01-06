@@ -24,7 +24,6 @@
 							<li><a href="categories.php">Catégories</a></li>
 							<li><a href="produits.php">Produits</a></li>
 							<li><a href="#">Flitres</a></li>
-							<li><a href="#">Produits</a></li>
 							<li class="dropdown">
 								<a href="javascript:;" class="dropdown-toggle">
 									<span class="fa fa-file"></span><span class="mtext">Attributs</span>
