@@ -23,7 +23,7 @@
 						<ul class="submenu">
 							<li><a href="categories.php">Catégories</a></li>
 							<li><a href="produits.php">Produits</a></li>
-							<!-- <li><a href="#">Flitres</a></li> 
+							<!-- <li><a href="#">Flitres</a></li>
 							<li class="dropdown">
 								<a href="javascript:;" class="dropdown-toggle">
 									<span class="fa fa-file"></span><span class="mtext">Attributs</span>
@@ -57,8 +57,7 @@
 							<span class="fa fa-list"></span><span class="mtext">Ventes</span>
 						</a>
 						<ul class="submenu">
-							<li><a href="#">Commandes</a></li>
-							<li><a href="#">Commandes récurrentes</a></li>
+							<li><a href="commandes.php">Commandes</a></li>
 							<li><a href="#">Retours</a></li>
 							<li class="dropdown">
 								<a href="javascript:;" class="dropdown-toggle">
